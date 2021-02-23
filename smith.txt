@@ -3,3 +3,4 @@ some string in gitHub
 something for checking pull request on dev
 some new changes in master branch
 ERROR
+COMMIT WITHOUT ERROR 1
