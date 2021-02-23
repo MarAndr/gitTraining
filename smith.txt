@@ -1,8 +1,1 @@
-some string in local repo
-some string in gitHub
-something for checking pull request on dev
-some new changes in master branch
-
-COMMIT WITHOUT ERROR 1
-COMMIT WITHOUT ERROR 2
 
