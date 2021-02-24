@@ -3,3 +3,5 @@
 
 Some point to my horse
 And anything else
+
+[ERROR]
