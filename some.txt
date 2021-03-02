@@ -1,1 +1,1 @@
-kapat local
+kapat local/remote
