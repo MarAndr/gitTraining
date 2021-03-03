@@ -1,2 +1,1 @@
-kapat remote
 kapat local/remote
