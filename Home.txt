@@ -6,3 +6,5 @@ false commit in master for dev
 
 torpohod da!
 svet svet svet
+
+tolko ne nado slov
