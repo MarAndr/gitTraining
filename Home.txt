@@ -1,8 +1,2 @@
 state of home
-saratov moy home
-tolko cherry
-
-false commit in master for dev
-
-torpohod da!
-svet svet svet
+novaya era
