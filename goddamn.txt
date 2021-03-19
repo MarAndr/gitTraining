@@ -2,3 +2,4 @@ for stash2
 
 
 [ERROR]
+hello world
