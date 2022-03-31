@@ -44,7 +44,7 @@ class KindsViewModel @Inject constructor(val repo: Repo) : ViewModel() {
             pass.isBlank() -> {
                 _loginState.value = LoginEvents.EMPTY_FIELD
             }
-            pass == "123" -> {
+            pass == "1234" -> {
                 _loginState.value = LoginEvents.SUCCESS
             }
             else -> {
